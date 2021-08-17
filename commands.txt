@@ -295,9 +295,6 @@ pm uninstall -k --user 0 com.sec.factory
 pm uninstall -k --user 0 com.sec.factory.camera
 pm uninstall -k --user 0 com.sec.factory.iris.usercamera
 pm uninstall -k --user 0 com.sec.hearingadjust
-pm uninstall -k --user 0 com.sec.ims
-pm uninstall -k --user 0 com.sec.imslogger
-pm uninstall -k --user 0 com.sec.imsservice
 pm uninstall -k --user 0 com.sec.kidsplat.installer
 pm uninstall -k --user 0 com.sec.knox.foldercontainer
 pm uninstall -k --user 0 com.sec.knox.knoxsetupwizardclient
@@ -340,3 +337,7 @@ pm uninstall -k --user 0 comflipboard.app
 pm uninstall -k --user 0 comflipboard.boxer.app
 
 pm uninstall -k --user 0 comtv.peel.samsung.app
+
+# pm uninstall -k --user 0 com.sec.ims
+# pm uninstall -k --user 0 com.sec.imslogger
+# pm uninstall -k --user 0 com.sec.imsservice
